@@ -1,0 +1,21 @@
+# Ignore all log files  
+*.log  
+
+# Ignore Python cache  
+__pycache__/  
+*.pyc  
+
+# Ignore environment files  
+.env  
+.venv/  
+
+# Ignore system files (Windows & macOS)  
+Thumbs.db  
+.DS_Store  
+
+# Ignore node_modules (for Node.js projects)  
+node_modules/  
+
+# Ignore build and distribution folders  
+build/  
+dist/
